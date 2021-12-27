@@ -4,6 +4,7 @@ A school district analysis on school budgets and standardized test scores. The r
 * Math and reading scores by grade
 * Scores by school spending
 * Scores by school size
+
 ![image](https://user-images.githubusercontent.com/81877387/147510530-ff0f89c7-4f35-4d47-9dc1-b17e0c050ef3.png)
 
 
