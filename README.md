@@ -14,7 +14,12 @@ Data Source: schools_complete.csv, students_complete.csv
 Software: Python 3.8.5, Jupyter Notebook 6.1.4
 
 ## Results
-Due to the standardized test scores for ninth grade students being incorrect the data was reanalyzed removing these scores for 461 student records. Results for ninth graders were removed since the data may have been altered (which we do not know how much of the data has been affected). Overall there were some minor chanages to the district summary. Also the top 5 performing schools had a change, with Thomas High School no longer ranked as the second top perfoming high school. There were no changes to the ranking of the lower performing schools. Overall the school summary showed a drop of 1% in the passing percentages for reading, maths and also the overall passing percentage. Thomas High School's passing percentages for maths and reading dropped over 20%, with the overall passing percentages being affected the most decreasing by 30%. Overall the scores in the scores by school spending, scores by school size and scores by school type had no major changes except on the percentages where Thomas High School were originally listed in the rows. 
+* Due to the standardized test scores for ninth grade students being incorrect the data was reanalyzed removing these scores for 461 student records. 
+* Results for ninth graders were removed since the data may have been altered (which we do not know how much of the data has been affected). 
+* Overall there were some minor chanages to the district summary. Also the top 5 performing schools had a change, with Thomas High School no longer ranked as the second top perfoming high school. There were no changes to the ranking of the lower performing schools. 
+* Overall the school summary showed a drop of 1% in the passing percentages for reading, maths and also the overall passing percentage. 
+* Thomas High School's passing percentages for maths and reading dropped over 20%, with the overall passing percentages being affected the most decreasing by 30%. 
+* Overall the scores in the scores by school spending, scores by school size and scores by school type had no major changes except on the percentages where Thomas High School were originally listed in the rows. 
 
 ## School District Summary 
 <img width="1012" alt="All schools and passing scores" src="https://user-images.githubusercontent.com/81877387/119280349-ffa4a680-bbfe-11eb-9edc-fc4eba6a26a8.png">
