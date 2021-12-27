@@ -10,6 +10,7 @@ A school district analysis on school budgets and standardized test scores. The r
 
 ## Resources
 Data Source: schools_complete.csv, students_complete.csv
+
 Software: Python 3.8.5, Jupyter Notebook 6.1.4
 
 ## Results
